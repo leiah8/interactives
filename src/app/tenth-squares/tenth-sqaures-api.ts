@@ -1,3 +1,4 @@
+//TO DO : ADD BUTTON TO ADD ONE FILLED OUTLINE
 import { gsap } from "gsap/all";
 
 export interface blocksSetup {
